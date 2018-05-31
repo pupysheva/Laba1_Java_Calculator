@@ -1,3 +1,5 @@
+package ru.mirea.Calc;
+
 public class Calc{
 	static boolean doubleOperationEnabled;
 
